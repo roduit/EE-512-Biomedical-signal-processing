@@ -19,6 +19,7 @@ def plot_time(x, t, main_title=''):
     py.ylabel('respiratory volume (a.u.)')
     py.title('respiratory volume')
     py.suptitle(main_title, fontsize=14)
+    py.tight_layout()
     
 def plot_rxx(x, main_title=''):
     K = np.arange(len(x['rxx_rr']))-len(x['rr'])+1
