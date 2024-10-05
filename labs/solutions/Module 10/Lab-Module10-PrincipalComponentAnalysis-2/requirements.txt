@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+biosppy
+sklearn
+plotly
+ipympl 
+matplotlib
+tables
