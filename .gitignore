@@ -167,3 +167,5 @@ cython_debug/
 .DS_Store
 .AppleDouble
 .LSOverride
+
+labs/lab12/neural_network_lab_1/logs
